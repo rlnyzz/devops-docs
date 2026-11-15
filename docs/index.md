@@ -9,3 +9,4 @@
 4. GitHub Pages публикует артефакт сборки.
 
 Адрес будущего сайта: `https://rlnyzz.github.io/devops-docs/`.
+[Ссылка на несуществующую страницу](missing-page.md)
